@@ -26,7 +26,7 @@ public class SalesConnection {
           //connect = DriverManager.getConnection("jdbc:mysql://xjdz3.dailyrazor.com:3306/odicerpc_odic?user=odicerpc_odicapp&password=pink101");
              //connect = DriverManager.getConnection("jdbc:mysql://localhost:3306/odicerpc_odic", "root", "");
 
-         connect = DriverManager.getConnection("jdbc:mysql://us-cdbr-gcp-east-01.cleardb.net:3306/gcp_da1d65037ce87f247bff?user=b3ac1b69dfdb9f&password=9a4f7165");
+         connect = DriverManager.getConnection("jdbc:mysql://us-cdbr-azure-east-c.cloudapp.net:3306/topazerp?user=b016a53052c652&password=058abae7");
           
         } catch (Exception ex) {
             ex.printStackTrace();
