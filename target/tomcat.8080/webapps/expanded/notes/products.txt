@@ -1,0 +1,157 @@
+80yds SIN -1.0MM,	1.0mm ODIC Single Wire
+80yds SIN -1.5MM,	1.5mm ODIC Single Wire
+80yds SIN -2.5MM,	2.5mm ODIC Single Wire
+80yds SIN -4MM,	4mm ODIC Single Wire
+80yds SIN -6MM,	6mm ODIC Single Wire
+80yds SIN -10MM,	10mm ODIC Single Wire
+80yds SIN -16MM,	16mm ODIC Single Wire
+80yds SIN -25MM,	25mm ODIC Single Wire
+80yds SIN -35MM,	35mm ODIC Single Wire
+100yds SIN -1.0MM,	1.0mm ODIC Single Wire
+100yds SIN -1.5MM,	1.5mm ODIC Single Wire
+100yds SIN -2.5MM,	2.5mm ODIC Single Wire
+100yds SIN -4MM,	4mm ODIC Single Wire
+100yds SIN -6MM,	6mm ODIC Single Wire
+100yds SIN -10MM,	10mm ODIC Single Wire
+100yds SIN -16MM,	16mm ODIC Single Wire
+100yds SIN -25MM,	25mm ODIC Single Wire
+100yds SIN -35MM,	35mm ODIC Single Wire
+100M SIN -1.5MM, 1.5mm ODIC Single Wire
+100M SIN -2.5MM, 2.5mm ODIC Single Wire
+100M SIN -4MM,	4mm ODIC Single Wire
+100M SIN -6MM, 	6mm ODIC Single Wire
+100M SIN -16MM,	16mm ODIC Single Wire
+80yds SIN New -1.0MM,	1.0mm Newcity Single Wire
+80yds SIN New -1.5MM,	1.5mm Newcity Single Wire
+80yds SIN New -2.5MM,	2.5mm Newcity Single Wire
+80yds SIN New -4MM,	4mm Newcity Single Wire
+80yds SIN New -6MM,	6mm Newcity Single Wire
+80yds SIN New -10MM,	10mm Newcity Single Wire
+80yds SIN New -16MM,	16mm Newcity Single Wire
+ALC- 50MM (AAC),	Aluminum conductor 50mm (AAC)  
+ALC- 70MM (AAC),	Aluminum conductor 70mm (AAC)  
+ALC- 100MM (AAC),	Aluminum conductor 100mm (AAC)  
+ALW CHINA 16MM,	Aluminum-wire China 16mm
+ALW NEUCON 16MM,	Aluminum-wire Neucon 16mm
+ALW NEWCITY 6.0MM,	Aluminum-wire Newcity 6mm
+ALW NEWCITY 16MM,	Aluminum-wire Newcity 16mm
+ALW NEWCITY 25MM,	Aluminum-wire Newcity 25mm
+ALW ODIC 6MM,	Aluminum-wire Odic 6mm
+ALW ODIC 16MM Big,	Aluminum-wire Odic 16mm big
+ALW ODIC 16MM Small,	Aluminum-wire Odic 16mm small
+ALW ODIC 25MM Big,	Aluminum-wire Odic 25mm big
+ALW ODIC 25MM Small,	Aluminum-wire Odic 25mm small
+ALW RECLYNE 16MM,	Aluminum-wire Reclyne 16mm
+ALW RECLYNE 25MM,	Aluminum-wire Reclyne 25mm
+ALW RECLYNE 35MM,	Aluminum-wire Reclyne 35mm
+ALW RECLYNE 50MM,	Aluminum-wire Reclyne 50mm
+ALW RECLYNE 70MM,	Aluminum-wire Reclyne 70mm
+FW CHINA 1.0M TW-Big,	Flatwire China 1mm Twin-Big
+FW CHINA 1.0M TW-Med,	Flatwire China 1mm Twin-Medium
+FW CHINA 1.0M TW-Sma,	Flatwire China 1mm Twin-Small
+FW CHINA 1.0MM x 3C,	Flatwire China 1.0mm x 3core
+FW CHINA 1.5MM x 3C,	Flatwire China 1.5mm x 3core
+FW CHINA 2.5MM x 3C,	Flatwire China 2.5mm x 3core
+FW CHINA 4MM x 3C,	Flatwire China 4mm x 3core
+FW CHINA T/E 1.0MM,	Flatwire China 1.0mm T/E
+FW CHINA T/E 1.5MM,	Flatwire China 1.5mm T/E
+FW CHINA T/E 2.5MM,	Flatwire China 2.5mm T/E
+FW CHINA T/E 4MM,	Flatwire China 4mm T/E
+FW NEW 1.0MM x 3C,	FlatwireNewcity 1.0MM x 3C
+FW NEW 1.5MM x 3C,	FlatwireNewcity 1.5MM x 3C
+FW NEW 2.5MM x 3C,	FlatwireNewcity 2.5MM x 3C
+FW NEW 1MM- TW, Flatwire New 1mm Twin
+FW NEW T/E 1.5MM,	FlatwireNewcity 1.5mm T/E
+FW NEW T/E 2.5MM,	FlatwireNewcity 2.5mm T/E
+FW NEW T/E 4.0MM,	FlatwireNewcity 4.0mm T/E
+FW ODIC 1.0MM x 3C,	FlatwireOdic1.0mm x 3core
+FW ODIC 1.5MM x 3C,	FlatwireOdic 1.5mm x 3core
+FW ODIC 2.5MM x 3C,	FlatwireOdic 2.5mm x 3core
+FW ODIC 4MM x 3C,	FlatwireOdic 4mm x 3core
+FW ODIC 1MM –TW(Big),	FlatwireOdic 1mm Twin (Big)
+FW ODIC 1MM –TW(Small),	FlatwireOdic 1mm Twin (Small) 
+FW ODIC T/E 1.0MM,	FlatwireOdic 1.0mm T/E
+FW ODIC T/E 1.5MM,	FlatwireOdic 1.5mm T/E
+FW ODIC T/E 2.5MM,	FlatwireOdic 2.5mm T/E
+FW ODIC T/E 4MM,	FlatwireOdic 4mm T/E
+HKF 0.5mm x 2C FLEX,	HFK 0.5mm x 2core Flex
+HKF 0.5mm x 3C FLEX,	HFK 0.5mm x 3core Flex
+HKF 1.5mm x 3C FLEX,	HFK 1.5mm x 3core Flex
+HKF 1.5mm x 4C FLEX,	HFK 1.5mm x 4core Flex
+HKF 2.5mm x 3C FLEX,	HFK 2.5mm x 3core Flex
+HKF 2.5mm x 4C FLEX,	HFK 2.5mm x 4core Flex
+HKF 4mm x 3C FLEX,	HFK 4mm x 3core Flex
+HKF 4mm x 4C FLEX,	HFK 4mm x 4core Flex
+HKF 4mm x 5C FLEX TRS,	HFK 4mm x 5core Flex TRS
+HKF 6mm x 3C FLEX,	HFK 6mm x 3core Flex
+HKF 6mm x 4C FLEX TRS,	HFK 6mm x 4core Flex TRS
+HKF 6mm x 5cFLEX TRS,	HFK 6mm x 5core Flex TRS
+HKF 10mm x 4cFLE 60y,	HFK 10mm x 4core Flex 60yds
+HKF 10mm x 4cFLE 70y,	HFK 10mm x 4core Flex 70yds
+HKF 10mm x 4cFLE100y,	HFK 10mm x 4core Flex 100yds
+HKF 10mm x 4cFLE TRS,	HFK 10mm x 4core Flex TRS
+HKF 16mm x 4CFLE70y,	HFK 16mm x 4core Flex 70yds
+HKF 16mm x 4cFLE100y,	HFK 16mm x 4core Flex 100yds
+HKF 25mm x 4cFLE 70y,	HFK 25mm x 4core Flex 70yds
+HKF 25mm x 4cFLE 100y,	HFK 25mm x 4core Flex 100yds
+HKF 25mm x 4cFLE 70yD,	HFK 25mm x 4core Flex 70ydsDr
+HKF 25mm x 5c TRS,	HFK 25mm x 5core TRS
+HKF 6mm x 4core Flex,	HFK 6mm x 4core Flex
+HKF CHINA THICK FLEX,	HFK China Thick Flex
+New 0.5mm x 2C FLEX,	Newcity 0.5 x 2core Flex
+New 2.5mm x 3C FLEX,	Newcity 2.5 x 3core Flex
+New 2.5mm x 4C FLEX,	Newcity 2.5 x 4core Flex
+New 4mm x 4C FLEX,	Newcity 4 x 4core Flex
+New 6mm x 4C FLEX,	Newcity 6 x 4core Flex
+NEW THICK FLEX,	Newcity Thick Flex
+New 10mm x 4C FLEX,	Newcity 10 x 4core Flex
+Newcity 1.5 x 3core,	Newcity 1.5 x 3core Flex
+Odic 0.5mm x 2C FLEX,	Odic 0.5 x 2core Flex
+Odic1.5mm x 3C FLEX,	Odic 1.5 x 3core Flex
+Odic2.5mm x 3C FLEX,	Odic 2.5 x 3core Flex
+Odic2.5mm x 4C FLEX,	Odic 2.5 x 4core Flex
+Odic4mm x 4C FLEX,	Odic 4 x 4core Flex
+Odic6mm x 4C FLEX,	Odic 6 x 4core Flex
+OHB- 11KV LIGHT ARR,	11KV Lightning Arrester
+OHB- 33KV LIGHT ARR,	33KV Lightning Arrester
+PRB 2.5MM SINGLE,	Pirelli Brand 2.5mm single
+SCB- 1P x 100YD,	Super Comm. 1pair x 100ysd
+SCB- 1P x 300YD,	Super Comm. 1pair x 300ysd
+SCB- 2P x 100YD,	Super Comm. 2pair x 100ysd
+SCB- 2P x 200YD,	Super Comm. 2pair x 200ysd
+SCB- 2P x 300YD,	Super Comm. 2pair x 300ysd
+SCB- 4P x 100YD,	Super Comm. 4pair x 100ysd
+SCB- 4P x 200YD,	Super Comm. 4pair x 200ysd
+SCB- 4P x 300YD,	Super Comm. 4pair x 300ysd
+SCB- 6P x 100YD,	Super Comm. 6pair x 100ysd
+SCB- 6P x 300YD,	Super Comm. 6pair x 300ysd
+SCB- 10P x 100YD,	Super Comm. 10pair x 100ysd
+SCB- 10P x 300YD,	Super Comm. 10pair x 300ysd
+SCB- 20P x 100YD,	Super Comm. 20pair x 100ysd
+SCB- 20P x 300YD,	Super Comm. 20pair x 300ysd
+SCB- 30P x 300YD,	Super Comm. 30pair 300ysd
+SCB- 30P x 500YD,	Super Comm. 30pair 500ysd
+SCB- 50P x 300YD,	Super Comm. 50pair 300ysd
+SCB- 50P x 500YDPvc,	Super Comm. 50pair x 500ysd(Pvc)
+SCB- CAT 5E,	Super Comm. CAT 5E
+SCB- CAT 6E,	Super Comm. CAT 6E
+SCB- DROP WIRE,	Super Comm. DROP WIRE
+SCB- F8 10P,	Super Comm. 10pair FIGURE 8
+SCB- F8 20P,	Super Comm. 20pair FIGURE 8
+SCB- F8 30P,	Super Comm. 30pair FIGURE 8
+SCB- F8 100P,	Super Comm. 100pair FIGURE 8
+SCB- PF 10P,	Super Comm. 10pair P.F
+SCB- PF 20P,	Super Comm. 20pair P.F
+SCB- PF 30P,	Super Comm. 30pair P.F
+SCB- PF 50P,	Super Comm. 50pair P.F
+SCB- PF 100P,	Super Comm. 100pair P.F
+SCB- PF 200P,	Super Comm. 200pair P.F
+SCB- PF 300P,	Super Comm. 300pair P.F
+SCB- PF 600P,	Super Comm. 600pair P.F
+SCB- PFA 10P,	Super Comm. 10pair PFA
+SCB- PFA 20P,	Super Comm. 20pair PFA
+SCB- PFA 30P,	Super Comm. 30pair PFA
+SCB- PFA 50P,	Super Comm. 50pair PFA
+SCB- PFA 100P,	Super Comm. 100pair PFA
+SCB- TV CABLE,	Super Comm. TELEVISION CABLE
+

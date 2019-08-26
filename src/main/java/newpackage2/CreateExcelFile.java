@@ -1,0 +1,71 @@
+/*
+ * To change this template, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package newpackage2;
+
+/**
+ *
+ * @author user
+ */
+import newpackage.*;
+import java.io.*;
+import java.sql.*;
+import newpackage.*;
+import org.apache.poi.hssf.usermodel.HSSFSheet;
+import org.apache.poi.hssf.usermodel.HSSFWorkbook;
+import org.apache.poi.hssf.usermodel.HSSFRow;
+
+public class CreateExcelFile {
+
+    public void mainm() {
+        try {
+            String filename = "c:/result.xls";
+            HSSFWorkbook hwb = new HSSFWorkbook();
+            HSSFSheet sheet = hwb.createSheet("new sheet");
+
+            HSSFRow rowhead = sheet.createRow((short) 0);
+            rowhead.createCell((short) 0).setCellValue("Id");
+            rowhead.createCell((short) 1).setCellValue("Reg. Date");
+            rowhead.createCell((short) 2).setCellValue("ItemId");
+            rowhead.createCell((short) 3).setCellValue("ItemName");
+            rowhead.createCell((short) 4).setCellValue("Category");
+            rowhead.createCell((short) 5).setCellValue("Pieces");
+            rowhead.createCell((short) 6).setCellValue("Price");
+//rowhead.createCell((short) 4).setCellValue("E-mail");
+
+//Class.forName("com.mysql.jdbc.Driver");
+//Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/test", "root", "root");
+            SQLconnector sqlcon = new SQLconnector();
+            Connection con = sqlcon.getCon();
+
+            Statement st = con.createStatement();
+            ResultSet rs = st.executeQuery("Select * from products");
+            int i = 1;
+            while (rs.next()) {
+                HSSFRow row = sheet.createRow((short) i);
+                row.createCell((short) 0).setCellValue(Integer.toString(rs.getInt("Id")));
+                row.createCell((short) 1).setCellValue(rs.getString("regdate"));
+                row.createCell((short) 2).setCellValue(rs.getString("Itemid"));
+                row.createCell((short) 3).setCellValue(rs.getString("ItemName"));
+                row.createCell((short) 4).setCellValue(rs.getString("category"));
+                row.createCell((short) 5).setCellValue(Integer.toString(rs.getInt("pieces")));
+                row.createCell((short) 6).setCellValue(Float.toString(rs.getFloat("Price")));
+
+                i++;
+            }
+            File file = new File("results.xls");
+            FileOutputStream fileOut = new FileOutputStream(file);
+            hwb.write(fileOut);
+            ExcelOpener opn = new ExcelOpener();
+            opn.openTable(file);
+
+            fileOut.close();
+            System.out.println("Your excel file has been generated!");
+
+        } catch (Exception ex) {
+            System.out.println(ex);
+
+        }
+    }
+}

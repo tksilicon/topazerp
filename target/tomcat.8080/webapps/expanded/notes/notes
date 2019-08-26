@@ -1,0 +1,72 @@
+Links to sources for work
+
+1) Create showhide() radio button based on jquery 
+
+http://www.tutorialrepublic.com/faq/show-hide-divs-based-on-radio-button-selection-in-jquery.php
+
+
+http://www.2ality.com/2014/05/is-integer.html
+http://api.jquery.com/submit/
+
+http://stackoverflow.com/questions/891696/jquery-what-is-the-best-way-to-restrict-number-only-input-for-textboxes-all
+
+ <script>
+            function isNumberKey(evt) {
+                var charCode = (evt.which) ? evt.which : event.keyCode;
+                if ( charCode > 31 && (charCode < 48 || charCode > 57)) {
+                    return false;
+                } else {
+                    return true;
+                }      
+            }
+        </script>
+
+class="form-control"
+
+
+else {
+
+                                                selectedProducts = (ArrayList<OdicProduct>) session.getAttribute("selectedProducts");
+
+                                                
+ if (repeated == 1) {
+                                                        itil = selectedProducts.iterator();
+                                                        
+
+
+                                                    }
+http://www.fileformat.info/info/unicode/char/20a6/index.htm Naira sign
+http://www.journaldev.com/1933/java-servlet-filter-example-tutorial
+
+ window.onunload = function(){}; 
+
+http://viralpatel.net/blogs/tutorial-create-autocomplete-feature-with-java-jsp-jquery/
+http://dev.mysql.com/doc/refman/5.5/en/date-and-time-functions.html
+
+
+
+
+
+http://www.accountingtools.com/debits-and-credits
+
+Printing CSS  - https://groups.google.com/forum/#!topic/twitter-bootstrap-stackoverflow/KvvCavyTl6E4
+http://eonasdan.github.io/bootstrap-datetimepicker/
+http://www.eyecon.ro/bootstrap-datepicker/
+http://www.javapractices.com/topic/TopicAction.do?Id=181 Redirect and Forward
+
+mysqldump -u username -p databasename > dump.sql
+mysql -u username -p databasename < dump.sql
+
+Single Logon solution
+http://stackoverflow.com/questions/17776704/practical-usage-of-httpsessionbindinglistener-and-httpsessionattributelistener
+http://stackoverflow.com/questions/11258724/getting-notification-when-bounded-unbounded-to-a-http-session/
+
+http://www.the-art-of-web.com/javascript/validate-password/
+
+http://fortawesome.github.io/Font-Awesome/examples/
+
+     
+
+
+
+
