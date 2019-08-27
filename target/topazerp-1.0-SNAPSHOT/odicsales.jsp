@@ -301,7 +301,7 @@
                         %>
 
                         <li>
-                            <a href="selectaddresscic.jsp" ><i class="fa fa-fw fa-file"></i> CIC Invoice</a>
+                            <a href="#" ><i class="fa fa-fw fa-file"></i> CIC Invoice</a>
                         </li> 
 
 
