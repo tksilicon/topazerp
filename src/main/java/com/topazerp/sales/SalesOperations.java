@@ -792,7 +792,7 @@ public class SalesOperations {
         try {
             SalesConnection salesCon = new SalesConnection();
             con = salesCon.getCon();
-            String sql = "SELECT username, department, branch, status, jobtype, password FROM admin where username= ?";
+            String sql = "SELECT username, department, branch, status, jobtype, userpassword FROM admin where username= ?";
             PreparedStatement sqlstatement = con.prepareStatement(sql);
             sqlstatement.setString(1, username);
             ResultSet sqlresultset = sqlstatement.executeQuery();
